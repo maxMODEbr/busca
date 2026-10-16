@@ -10884,7 +10884,6 @@
     "f": "Personagens do Novo Testamento",
     "i": [
       "joão",
-      "timon",
       "paulo",
       "teudas"
     ]
@@ -10895,8 +10894,7 @@
     "i": [
       "paulo",
       "jesus cristo",
-      "pedro",
-      "timon"
+      "pedro"
     ]
   },
   "paulo": {
@@ -12045,7 +12043,6 @@
     "i": [
       "teudas",
       "teófilo",
-      "timon",
       "tadeu"
     ]
   },
@@ -12053,20 +12050,9 @@
     "m": "Personagens Bíblicos",
     "f": "Personagens do Novo Testamento",
     "i": [
-      "timon",
       "tércio",
       "jesus cristo",
       "teófilo"
-    ]
-  },
-  "timon": {
-    "m": "Personagens Bíblicos",
-    "f": "Personagens do Novo Testamento",
-    "i": [
-      "jesus cristo",
-      "teudas",
-      "joão",
-      "tércio"
     ]
   },
   "davi": {
